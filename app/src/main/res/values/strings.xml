@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAIDLDemo</string>
+    <string name="netty_service_process_name">com.ray.nettyservice</string>
+</resources>
